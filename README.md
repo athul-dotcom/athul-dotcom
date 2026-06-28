@@ -19,7 +19,6 @@ MCA Student @ Amrita Vishwa Vidyapeetham | Full-Stack Developer | Aspiring Softw
 - 💻 Full-stack developer experienced in the **MEAN stack, React Native, and Python**
 - 📱 Built **Academix Hub** — both Web and Mobile applications
 - 🌱 Currently sharpening **Data Structures & Algorithms** and **System Design**
-- 🧩 Solving problems daily on **LeetCode**
 - 🎯 Goal: Crack Product-Based Company Interviews and build software that solves real-world problems
 - 📍 Based in **Kochi, Kerala, India**
 - 📫 Reach me at **athulkr34@gmail.com**
