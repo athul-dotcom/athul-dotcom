@@ -1,91 +1,170 @@
 <h1 align="center">Hi 👋, I'm Athul K R</h1>
-
 <h3 align="center">
-Aspiring Software Engineer | DSA Enthusiast | Full Stack Developer
+MCA Student @ Amrita Vishwa Vidyapeetham | Full-Stack Developer | Aspiring Software Engineer
 </h3>
+<p align="center">
+🚀 Building scalable, user-centric applications · Preparing for Product-Based Company Interviews
+</p>
 
 <p align="center">
-Preparing for Software Engineering Interviews 🚀
+  <img src="https://komarev.com/ghpvc/?username=athul-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA Graduate
-- 💻 Passionate about Software Development
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 🧩 Solving problems daily on LeetCode
-- 📱 Built **Academix Hub**
-- 🎯 Goal: Crack Product-Based Company Interviews
+- 🎓 Pursuing **MCA in Computer Science** at **Amrita Vishwa Vidyapeetham, Kochi**
+- 💼 **9 months of professional internship experience** across two organizations
+- 💻 Full-stack developer experienced in the **MEAN stack, React Native, and Python**
+- 📱 Built **Academix Hub** — both Web and Mobile applications
+- 🌱 Currently sharpening **Data Structures & Algorithms** and **System Design**
+- 🧩 Solving problems daily on **LeetCode**
+- 🎯 Goal: Crack Product-Based Company Interviews and build software that solves real-world problems
+- 📍 Based in **Kochi, Kerala, India**
+- 📫 Reach me at **athulkr34@gmail.com**
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+### ⚙️ Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Frameworks
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### Database
+### 🧠 Core Concepts
+`Data Structures & Algorithms` · `Object-Oriented Programming` · `DBMS` · `UI/UX Design` · `Mobile App Development`
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+---
+
+## 💼 Professional Experience
+
+### 🏢 Cellar Innovative Developers — *Project Intern, Mobile App Development*
+📅 *Dec 2024 – Mar 2025 · Kochi, India*
+- Built key features for the **Academix Hub** mobile app using React Native, Node.js, Express.js, and MySQL
+- Collaborated in an Agile team, applying DSA knowledge to optimize REST API response handling
+- Conducted Android-platform testing and debugging to reduce reported bugs
+
+### 🏢 TECHWINGSYS — *Project Intern, Web Application Development*
+📅 *Jul 2024 – Nov 2024 · Kochi, India*
+- Built and deployed the **Academix Hub** web application from scratch using HTML, CSS, PHP, and MySQL
+- Designed RESTful backend modules and normalized relational database schemas
+- Owned the full SDLC: requirements, design, implementation, testing, and deployment
+
+---
+
+## 📌 Featured Projects
+
+### 📱 Academix Hub — Mobile Application
+**Tech:** `React Native` · `Node.js` · `Express.js` · `MySQL`
+- Cross-platform companion app with real-time data sync via REST APIs
+- On-the-go access to notes, question papers, experiments, and mini-projects for students and faculty
+- Modular component architecture for maintainability and rapid feature iteration
+
+### 🌐 Academix Hub — Web Application
+**Tech:** `HTML` · `CSS` · `PHP` · `MySQL`
+- Full-stack academic management platform with student & faculty portals
+- Role-based access, secure authentication, and dynamic dashboards
+- Normalized relational schemas managing user data, course records, and attendance
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athul-dotcom&show_icons=true&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=athul-dotcom&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=athul-dotcom&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=athul-dotcom&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athul-dotcom&layout=compact&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athul-dotcom&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ## 🧩 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Athul-K-R?theme=dark&font=Karma)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Athul-K-R?theme=dark&font=Karma" alt="LeetCode Stats" />
+</p>
 
 ---
 
-## 📌 Featured Project
+## 📜 Certifications
 
-### 📱 Academix Hub
+- 🤖 **IBM SkillsBuild** — Artificial Intelligence Fundamentals *(Jun 2026)*
+- 🌐 **Infosys Springboard** — IoT Platforms Overview *(Apr 2026)*
+- 🐍 **Infosys Springboard** — Basics of Python *(Feb 2026)*
+- 🧮 **Infosys Springboard** — Computational Problem Solving *(Jan 2026)*
 
-A mobile application built using React Native, Node.js, Express.js, and MySQL that enables students to access notes, question papers, experiments, and mini-projects uploaded by seniors.
+---
+
+## 🏆 Achievements
+
+- 🥇 **National-level Kho-Kho Athlete** — Winner of the **CBSE Cluster XI Kho-Kho Tournament (2019–2020)**
+  *Discipline, teamwork, and performance under pressure — qualities I bring to every project.*
+- 💼 Completed **9 months of professional internship experience** across two organizations, contributing to end-to-end product development.
 
 ---
 
 ## 🎯 Current Focus
 
 - ✅ Data Structures & Algorithms
-- ✅ LeetCode
+- ✅ LeetCode Daily Problem Solving
 - ✅ System Design Basics
-- ✅ Full Stack Development
+- ✅ Full-Stack Development (MEAN Stack)
 - ✅ Software Engineering Interview Preparation
 
 ---
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/athul-dotcom
-- LeetCode: https://leetcode.com/u/Athul-K-R/
+<p align="left">
+  <a href="https://www.linkedin.com/in/athul-k-r-b04255326" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/athul-dotcom" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/Athul-K-R/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:athulkr34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i>
+</p>
+
+<p align="center">⭐ From <a href="https://github.com/athul-dotcom">athul-dotcom</a></p>
