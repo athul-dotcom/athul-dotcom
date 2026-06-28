@@ -118,9 +118,9 @@ Building scalable, user-centric applications. Preparing for software engineering
 
 - **IBM SkillsBuild** — Artificial Intelligence Fundamentals *(Jun 2026)*
 - **Infosys Springboard**
-- — IoT Platforms Overview *(Apr 2026)*
-- — Basics of Python *(Feb 2026)*
-- — Computational Problem Solving *(Jan 2026)*
+   — IoT Platforms Overview *(Apr 2026)*
+   — Basics of Python *(Feb 2026)*
+   — Computational Problem Solving *(Jan 2026)*
 
 ---
 
