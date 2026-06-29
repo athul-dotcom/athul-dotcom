@@ -88,12 +88,6 @@ Building scalable, user-centric applications. Preparing for software engineering
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=athul-dotcom&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api?username=athul-dotcom&show_icons=true&theme=tokyonight)" alt="GitHub Stats" />
-</p>
-
 ## GitHub Streak
 
 <p align="center">
