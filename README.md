@@ -56,38 +56,6 @@ Building scalable, user-centric applications. Preparing for software engineering
 
 ---
 
-## Professional Experience
-
-### Cellar Innovative Developers — *Project Intern, Mobile App Development*
-*Dec 2024 – Mar 2025 · Kochi, India*
-- Built key features for the **Academix Hub** mobile app using React Native, Node.js, Express.js, and MySQL
-- Collaborated in an Agile team, applying DSA knowledge to optimize REST API response handling
-- Conducted Android-platform testing and debugging to reduce reported bugs
-
-### TECHWINGSYS — *Project Intern, Web Application Development*
-*Jul 2024 – Nov 2024 · Kochi, India*
-- Built and deployed the **Academix Hub** web application from scratch using HTML, CSS, PHP, and MySQL
-- Designed RESTful backend modules and normalized relational database schemas
-- Owned the full SDLC: requirements, design, implementation, testing, and deployment
-
----
-
-## Featured Projects
-
-### Academix Hub — Mobile Application
-**Tech:** `React Native` · `Node.js` · `Express.js` · `MySQL`
-- Cross-platform companion app with real-time data sync via REST APIs
-- On-the-go access to notes, question papers, experiments, and mini-projects for students and faculty
-- Modular component architecture for maintainability and rapid feature iteration
-
-### Academix Hub — Web Application
-**Tech:** `HTML` · `CSS` · `PHP` · `MySQL`
-- Full-stack academic management platform with student and faculty portals
-- Role-based access, secure authentication, and dynamic dashboards
-- Normalized relational schemas managing user data, course records, and attendance
-
----
-
 ## GitHub Streak
 
 <p align="center">
@@ -106,32 +74,6 @@ Building scalable, user-centric applications. Preparing for software engineering
   <img src="https://leetcard.jacoblin.cool/Athul-K-R?theme=dark&font=Karma" alt="LeetCode Stats" />
 </p>
 
----
-
-## Certifications
-
-- **IBM SkillsBuild** — Artificial Intelligence Fundamentals *(Jun 2026)*
-- **Infosys Springboard**
-   — IoT Platforms Overview *(Apr 2026)*
-   — Basics of Python *(Feb 2026)*
-   — Computational Problem Solving *(Jan 2026)*
-
----
-
-## Achievements
-
-- **National-level Kho-Kho Athlete** — Winner of the **CBSE Cluster XI Kho-Kho Tournament (2019–2020)**
-- Completed **9 months of professional internship experience** across two organizations, contributing to end-to-end product development
-
----
-
-## Current Focus
-
-- Data Structures & Algorithms
-- LeetCode daily problem solving
-- System Design fundamentals
-- Full-Stack Development (MEAN Stack)
-- Software Engineering interview preparation
 
 ---
 
