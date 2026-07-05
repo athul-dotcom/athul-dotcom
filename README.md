@@ -17,10 +17,8 @@ Building scalable, user-centric applications. Preparing for software engineering
 - Pursuing **MCA in Computer Science** at **Amrita Vishwa Vidyapeetham, Kochi**
 - **9 months of professional internship experience** across two organizations
 - Full-stack developer experienced in the **MEAN stack, React Native, and Python**
-- Built **Academix Hub** — both Web and Mobile applications
 - Currently sharpening **Data Structures & Algorithms** and **System Design**
 - Based in **Kochi, Kerala, India**
-- Reach me at **athulkr34@gmail.com**
 
 ---
 
