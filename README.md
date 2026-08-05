@@ -47,13 +47,10 @@
 <br>
 
 ## LeetCode
-
 <a href="https://leetcode.com/u/Athul-K-R/" target="_blank"><img src="https://leetcode.com/u/Athul-K-R/" width="0" height="0" /></a>
-
 <p>
   <a href="https://leetcode.com/u/Athul-K-R/" target="_blank"><img src="https://leetcard.jacoblin.cool/Athul-K-R?theme=dark&font=Karma&ext=heatmap&width=500" alt="LeetCode Stats" /></a>
 </p>
-
 <br>
 
 ## Connect
