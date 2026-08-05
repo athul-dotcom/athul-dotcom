@@ -58,12 +58,6 @@ Building scalable, user-centric applications with the MEAN stack, React Native, 
 
 ---
 
-## Certifications
-
-- **IBM SkillsBuild** — AI Fundamentals
-- **Infosys Springboard** — Python, IoT, Computational Problem Solving
-
----
 
 ## Connect
 
