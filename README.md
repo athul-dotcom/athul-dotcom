@@ -46,4 +46,24 @@
 
 **Core Concepts**
 
-`Data Structures & Algorithms` &nbsp;·&nbsp;
+`Data Structures & Algorithms` &nbsp;·&nbsp; `Object-Oriented Programming` &nbsp;·&nbsp; `DBMS` &nbsp;·&nbsp; `REST API Design` &nbsp;·&nbsp; `UI/UX Design`
+
+<br>
+
+## LeetCode
+
+<p>
+  <a href="https://leetcode.com/u/Athul-K-R/" target="_blank"><img src="https://leetcard.jacoblin.cool/Athul-K-R?theme=dark&font=Karma&ext=heatmap&width=500" alt="LeetCode Stats" /></a>
+</p>
+
+<br>
+
+## Connect
+
+<p>
+  Open to software engineering roles and collaboration. Best reached by email.
+</p>
+
+<p>
+  <a href="https://athulkr.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/athul-k-r-b04255326" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:athulkr34@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
