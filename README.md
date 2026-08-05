@@ -1,24 +1,41 @@
 <h1 align="center">Athul K R</h1>
-<h3 align="center">
-MCA Student at Amrita Vishwa Vidyapeetham | Full-Stack Developer
-</h3>
+<h3 align="center">MCA Student at Amrita Vishwa Vidyapeetham | Full-Stack Developer</h3>
 <p align="center">
-Building scalable, user-centric applications. Preparing for software engineering roles at product-based companies.
+Building scalable, user-centric applications with the MEAN stack, React Native, and Python.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=athul-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/athul-k-r-b04255326" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Athul-K-R/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:athulkr34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-- Pursuing **MCA in Computer Science** at **Amrita Vishwa Vidyapeetham, Kochi**
-- **9 months of professional internship experience** across two organizations
-- Full-stack developer experienced in the **MEAN stack, React Native, and Python**
-- Currently sharpening **Data Structures & Algorithms** and **System Design**
-- Based in **Kochi, Kerala, India**
+- Pursuing **MCA in Computer Science** at **Amrita Vishwa Vidyapeetham, Kochi** (2027)
+- **9 months of internship experience** across two organizations, shipping the same academic management platform as both a web app and a native mobile app
+- Full-stack developer working across the **MEAN stack**, **React Native**, and **Python**
+- Currently focused on **Data Structures & Algorithms**, **SQL**, and **System Design**
+- Open to software engineering roles — based in Kochi, Kerala, India
+
+---
+
+## Featured Projects
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[Academix Hub — Web](https://github.com/athul-dotcom/REPO-NAME)** | Academic management platform with role-based access control, secure authentication, and a centralized database. Built during my web development internship. | PHP, MySQL, HTML/CSS |
+| **[Academix Hub — Mobile](https://github.com/athul-dotcom/REPO-NAME)** | Native mobile rebuild of the platform with a REST API backend, carrying the same role-based permission model to Android. | React Native, Node.js, Express.js, MySQL |
+| **[DrugTrace](https://github.com/athul-dotcom/REPO-NAME)** | Transparent narcotics supply-chain tracking system using blockchain for tamper-proof records and ML for anomaly detection. My contribution: frontend UI/UX and role-based dashboards. | Python, Solidity, Spring Boot, MySQL |
+| **[LeetCode Solutions](https://github.com/athul-dotcom/leetcode-solutions)** | Ongoing DSA practice in Python, auto-synced from LeetCode. | Python |
 
 ---
 
@@ -37,59 +54,34 @@ Building scalable, user-centric applications. Preparing for software engineering
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Databases
+### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### Core Concepts
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `DBMS` · `UI/UX Design` · `Mobile App Development`
+`Data Structures & Algorithms` · `Object-Oriented Programming` · `DBMS` · `REST API Design` · `UI/UX Design`
 
 ---
 
-## GitHub Streak
+## Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=athul-dotcom&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athul-dotcom&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
-
-## Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athul-dotcom&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/Athul-K-R?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
-
-## LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Athul-K-R?theme=dark&font=Karma" alt="LeetCode Stats" />
-</p>
-
 
 ---
 
-## Connect with Me
+## Certifications
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/athul-k-r-b04255326" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/athul-dotcom" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/Athul-K-R/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:athulkr34@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-Test from GitHub Desktop
+- **IBM SkillsBuild** — AI Fundamentals
+- **Infosys Springboard** — Python, IoT, Computational Problem Solving
