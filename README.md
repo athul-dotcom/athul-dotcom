@@ -28,17 +28,6 @@ Building scalable, user-centric applications with the MEAN stack, React Native, 
 
 ---
 
-## Featured Projects
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[Academix Hub — Web](https://github.com/athul-dotcom/REPO-NAME)** | Academic management platform with role-based access control, secure authentication, and a centralized database. Built during my web development internship. | PHP, MySQL, HTML/CSS |
-| **[Academix Hub — Mobile](https://github.com/athul-dotcom/REPO-NAME)** | Native mobile rebuild of the platform with a REST API backend, carrying the same role-based permission model to Android. | React Native, Node.js, Express.js, MySQL |
-| **[DrugTrace](https://github.com/athul-dotcom/REPO-NAME)** | Transparent narcotics supply-chain tracking system using blockchain for tamper-proof records and ML for anomaly detection. My contribution: frontend UI/UX and role-based dashboards. | Python, Solidity, Spring Boot, MySQL |
-| **[LeetCode Solutions](https://github.com/athul-dotcom/leetcode-solutions)** | Ongoing DSA practice in Python, auto-synced from LeetCode. | Python |
-
----
-
 ## Tech Stack
 
 ### Languages
